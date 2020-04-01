@@ -42,21 +42,16 @@ About me
     엘리자베스 베넷이라는 여성이 피츠윌리엄 다아시라는 남성을 만나면서 그를 아주 오만한 사람으로 오해하고,
     편견으로 판단하여 일어나는 사랑의 엇갈림을 보여준다.
 <img src="https://user-images.githubusercontent.com/62869982/78159263-4a081880-747d-11ea-9b56-6934cffbf219.jpg" width="20%">
-![pride--prejudice_6eb6_360x640](https://user-images.githubusercontent.com/62869982/78159263-4a081880-747d-11ea-9b56-6934cffbf219.jpg){: width="100" height="250"}
 
 
 #### 2. 새로산 아이패드 
     아이패드를 사면서 트레이싱이라는 사람의 인물사진을 선으로 따는 그림에 흥미가 생겼다. 
     친구들과 가족들들을 그려주면 많이 좋아하고, 이에 뿌듯함을 느낀다. 
-<img src="https://user-images.githubusercontent.com/62869982/78159630-c7338d80-747d-11ea-80de-a1584b264ea7.jpg" width="50%">
-![KakaoTalk_20200328_230127853](https://user-images.githubusercontent.com/62869982/78159630-c7338d80-747d-11ea-80de-a1584b264ea7.jpg){: width="200" height="150"}
-<img src="https://user-images.githubusercontent.com/62869982/78159633-c7cc2400-747d-11ea-9b44-8416a8f60a15.jpg" width="50%">
-![KakaoTalk_20200329_011727725](https://user-images.githubusercontent.com/62869982/78159633-c7cc2400-747d-11ea-9b44-8416a8f60a15.jpg){: width="200" height="150"}
-<img src="https://user-images.githubusercontent.com/62869982/78159634-c864ba80-747d-11ea-81b3-9dd0eb296a4c.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/62869982/78159630-c7338d80-747d-11ea-80de-a1584b264ea7.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/62869982/78159633-c7cc2400-747d-11ea-9b44-8416a8f60a15.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/62869982/78159634-c864ba80-747d-11ea-81b3-9dd0eb296a4c.jpg" width="30%">
 
-![KakaoTalk_20200330_132402010](https://user-images.githubusercontent.com/62869982/78159634-c864ba80-747d-11ea-81b3-9dd0eb296a4c.jpg){: width="200" height="150"}
 
- 
 #### 3. 떡볶이 
  인생 소울푸드이다. 떡볶이가 너무 좋다. 삼시세끼 떡볶이를 먹어도 괜찮다. 가장좋아하는 떡볶이 브랜드는 오떡,신전,엽떡이다.
 
