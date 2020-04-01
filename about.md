@@ -40,7 +40,7 @@ About me
     줄거리 : 18 ~ 19세기 영국을 배경으로 영국의 사교계문화를 보여준다.
     엘리자베스 베넷이라는 여성이 피츠윌리엄 다아시라는 남성을 만나면서 그를 아주 오만한 사람으로 오해하고,
     편견으로 판단하여 일어나는 사랑의 엇갈림을 보여준다.
-![pride--prejudice_6eb6_360x640](https://user-images.githubusercontent.com/62869982/78159263-4a081880-747d-11ea-9b56-6934cffbf219.jpg){: width="100" height="250"}
+![pride--prejudice_6eb6_360x640](https://user-images.githubusercontent.com/62869982/78159263-4a081880-747d-11ea-9b56-6934cffbf219.jpg =100*200){: width="100" height="250"}
 
 
 #### 2. 새로산 아이패드 
