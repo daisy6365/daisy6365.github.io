@@ -34,21 +34,21 @@ About me
     __기묘한 이야기__ (넷플릭스 드라마) 
     줄거리 : 다른 차원에 있는 바이러스괴물이 미국정부의 잘못된 연구로 인해 우리가 살고 있는 차원의 세계로 넘어와 사람들을 납치한다.
     친구가 납치된 호킨스마을의 동네아이들과 미국정부의 연구로 태어나 초능력을 가진 아이가 함께 이 일을 해결한다.
-![stranger-things_2c0a_360x640](https://user-images.githubusercontent.com/62869982/78159258-48d6eb80-747d-11ea-9ecc-b91cf74fc4ce.jpg)
+![stranger-things_2c0a_360x640](https://user-images.githubusercontent.com/62869982/78159258-48d6eb80-747d-11ea-9ecc-b91cf74fc4ce.jpg){: width="100" height="250"}
 
     __오만과 편견__ (영화)
     줄거리 : 18 ~ 19세기 영국을 배경으로 영국의 사교계문화를 보여준다.
     엘리자베스 베넷이라는 여성이 피츠윌리엄 다아시라는 남성을 만나면서 그를 아주 오만한 사람으로 오해하고,
     편견으로 판단하여 일어나는 사랑의 엇갈림을 보여준다.
-![pride--prejudice_6eb6_360x640](https://user-images.githubusercontent.com/62869982/78159263-4a081880-747d-11ea-9b56-6934cffbf219.jpg)
+![pride--prejudice_6eb6_360x640](https://user-images.githubusercontent.com/62869982/78159263-4a081880-747d-11ea-9b56-6934cffbf219.jpg){: width="100" height="250"}
 
 
 #### 2. 새로산 아이패드 
     아이패드를 사면서 트레이싱이라는 사람의 인물사진을 선으로 따는 그림에 흥미가 생겼다. 
     친구들과 가족들들을 그려주면 많이 좋아하고, 이에 뿌듯함을 느낀다. 
-![KakaoTalk_20200328_230127853](https://user-images.githubusercontent.com/62869982/78159630-c7338d80-747d-11ea-80de-a1584b264ea7.jpg)
-![KakaoTalk_20200329_011727725](https://user-images.githubusercontent.com/62869982/78159633-c7cc2400-747d-11ea-9b44-8416a8f60a15.jpg)
-![KakaoTalk_20200330_132402010](https://user-images.githubusercontent.com/62869982/78159634-c864ba80-747d-11ea-81b3-9dd0eb296a4c.jpg)
+![KakaoTalk_20200328_230127853](https://user-images.githubusercontent.com/62869982/78159630-c7338d80-747d-11ea-80de-a1584b264ea7.jpg){: width="200" height="150"}
+![KakaoTalk_20200329_011727725](https://user-images.githubusercontent.com/62869982/78159633-c7cc2400-747d-11ea-9b44-8416a8f60a15.jpg){: width="200" height="150"}
+![KakaoTalk_20200330_132402010](https://user-images.githubusercontent.com/62869982/78159634-c864ba80-747d-11ea-81b3-9dd0eb296a4c.jpg){: width="200" height="150"}
 
  
 #### 3. 떡볶이 
