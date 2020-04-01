@@ -1,8 +1,7 @@
 # daisy6365.github.io
 
 About me 
-
-===
+---
 
 ### 이름의 의미 
 
