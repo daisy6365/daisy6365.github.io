@@ -34,7 +34,7 @@ About me
     __기묘한 이야기__ (넷플릭스 드라마) 
     줄거리 : 다른 차원에 있는 바이러스괴물이 미국정부의 잘못된 연구로 인해 우리가 살고 있는 차원의 세계로 넘어와 사람들을 납치한다.
     친구가 납치된 호킨스마을의 동네아이들과 미국정부의 연구로 태어나 초능력을 가진 아이가 함께 이 일을 해결한다.
-![stranger-things_2c0a_360x640](https://user-images.githubusercontent.com/62869982/78159258-48d6eb80-747d-11ea-9ecc-b91cf74fc4ce.jpg){: width="100" height="250"}
+![stranger-things_2c0a_360x640](https://user-images.githubusercontent.com/62869982/78159258-48d6eb80-747d-11ea-9ecc-b91cf74fc4ce.jpg){: width="100" height="250"} 
 
     __오만과 편견__ (영화)
     줄거리 : 18 ~ 19세기 영국을 배경으로 영국의 사교계문화를 보여준다.
