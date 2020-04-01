@@ -47,6 +47,7 @@ About me
 #### 2. 새로산 아이패드 
     아이패드를 사면서 트레이싱이라는 사람의 인물사진을 선으로 따는 그림에 흥미가 생겼다. 
     친구들과 가족들들을 그려주면 많이 좋아하고, 이에 뿌듯함을 느낀다. 
+<img src="https://user-images.githubusercontent.com/62869982/78159630-c7338d80-747d-11ea-80de-a1584b264ea7.jpg" width="50%">
 ![KakaoTalk_20200328_230127853](https://user-images.githubusercontent.com/62869982/78159630-c7338d80-747d-11ea-80de-a1584b264ea7.jpg){: width="200" height="150"}
 ![KakaoTalk_20200329_011727725](https://user-images.githubusercontent.com/62869982/78159633-c7cc2400-747d-11ea-9b44-8416a8f60a15.jpg){: width="200" height="150"}
 ![KakaoTalk_20200330_132402010](https://user-images.githubusercontent.com/62869982/78159634-c864ba80-747d-11ea-81b3-9dd0eb296a4c.jpg){: width="200" height="150"}
